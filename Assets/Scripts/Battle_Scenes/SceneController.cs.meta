@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: adebe9ddbc3299c489eddc9894109318
+timeCreated: 1475968162
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyPrefab_stage1: {fileID: 1000010029418436, guid: 0de8ec416079f5748a2df3fbc9602b87,
+      type: 2}
+  - enemyPrefab_stage2: {fileID: 1000014108079638, guid: 3c4e0bb0bc22d62409a24de9d70bb8ba,
+      type: 2}
+  - playerPrefab: {fileID: 1000010791964608, guid: 660ff39dc0118e3418f5156b120e625a,
+      type: 2}
+  - map0_skybox: {fileID: 2100000, guid: e6cb5494b67ee7645b4d0d7a1cd378eb, type: 2}
+  - map1_skybox: {fileID: 2100000, guid: df871575273c97a458d3fd0bad745909, type: 2}
+  - map2_skybox: {fileID: 2100000, guid: 19e2485c6f92d6944ad20466ac77b04c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

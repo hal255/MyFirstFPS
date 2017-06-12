@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2b18e4ea8a40e2e47834b77c91574e49
+timeCreated: 1480404129
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - staffPrefab: {instanceID: 0}
+  - bullet1Prefab: {fileID: 1000012493767572, guid: 0ae2ae6f114a55841bd81225e85eccbc,
+      type: 2}
+  - bullet2Prefab: {fileID: 1000011656572660, guid: 2b404fd96db665941bbe5f51d91b626c,
+      type: 2}
+  - bullet3Prefab: {fileID: 1000013134335286, guid: 6935185b08f8b2843ab4ea8552b4e425,
+      type: 2}
+  - normal_gun: {instanceID: 0}
+  - special_gun: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 246c9791b8a054a4ebf5747b4f764e5b
+timeCreated: 1479103934
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - potion_sound: {fileID: 8300000, guid: 2afd4245575acda4fa4f5f354f21b7e0, type: 3}
+  - audio_source: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

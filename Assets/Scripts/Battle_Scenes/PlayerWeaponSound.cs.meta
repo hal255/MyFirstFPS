@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aaf8ddcb8da8efe46b4ec500bf3ab6de
+timeCreated: 1478848099
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - weapon0: {fileID: 8300000, guid: 3ca121c001790493aac9f6aec90cfc06, type: 3}
+  - weapon1: {instanceID: 0}
+  - weapon2: {instanceID: 0}
+  - weapon3: {instanceID: 0}
+  - weaponAudioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
